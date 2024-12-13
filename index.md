@@ -1,7 +1,4 @@
-# Test Header
-## Tester Headerer
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-
-
-I created headers one is an H1 header and the other is an H2 header :)
+I added a cat to the file :)
